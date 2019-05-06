@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-//수정 2번입니다 이것이 잘 올라가는지 확인할 것입니다.
+//수정 2번입니다 이것이 잘 올라가는지 확인할 것입니다. 한번더
 public class LoginActivity extends AppCompatActivity {
 
 
