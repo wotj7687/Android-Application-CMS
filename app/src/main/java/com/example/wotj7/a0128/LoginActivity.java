@@ -36,7 +36,5 @@ public class LoginActivity extends AppCompatActivity {
         }else {
             Toast.makeText(this, "u can't login", Toast.LENGTH_SHORT).show();
         }
-
     }
-
 }
