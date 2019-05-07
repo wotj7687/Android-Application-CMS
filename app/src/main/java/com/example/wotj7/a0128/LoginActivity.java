@@ -10,7 +10,7 @@ import android.widget.Toast;
 //수정 2번입니다 이것이 잘 올라가는지 확인할 것입니다. 한번더
 public class LoginActivity extends AppCompatActivity {
 
-    //비밀번호 바꿨어요!
+    //됐나??
     String password = "Torry The Best";
     EditText editText;
     Button button;
