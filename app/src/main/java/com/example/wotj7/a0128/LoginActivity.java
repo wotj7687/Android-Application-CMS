@@ -11,7 +11,7 @@ import android.widget.Toast;
 public class LoginActivity extends AppCompatActivity {
 
 
-    String password = "pw";
+    String password = "Torry The Best";
     EditText editText;
     Button button;
 
