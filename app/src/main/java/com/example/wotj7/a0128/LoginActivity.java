@@ -15,17 +15,12 @@ public class LoginActivity extends AppCompatActivity {
     EditText editText;
     Button button;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         editText = findViewById(R.id.password);
         button = findViewById(R.id.loginbutton);
-
-
     }
 
     public void ForLogin(View view) {
